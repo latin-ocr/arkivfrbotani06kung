@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./arkivfrbotani06kung/arkivfrbotani06kung_0263.png"; bbox 0 0 1991 3291; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 107 117 1890 167">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 107 117 1890 167">
+     <span class='ocr_line' id='line_1_1' title="bbox 107 117 1890 167; baseline -0.006 -5"><span class='ocrx_word' id='word_1_1' title='bbox 107 128 251 167; x_wconf 68' lang='lat' dir='ltr'>ARKIV</span> <span class='ocrx_word' id='word_1_2' title='bbox 279 121 370 165; x_wconf 79' lang='lat' dir='ltr'><strong>FOR</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 398 125 620 161; x_wconf 74' lang='lat' dir='ltr'><strong>BOTANIK.</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 671 124 801 159; x_wconf 70' lang='lat' dir='ltr'>BAND</span> <span class='ocrx_word' id='word_1_5' title='bbox 829 126 860 157; x_wconf 73' lang='lat'><strong>(5.</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 913 125 979 159; x_wconf 74' lang='lat' dir='ltr'><strong>Nzo</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 1006 125 1037 159; x_wconf 84' lang='grc'><strong>8.</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 1756 117 1829 152; x_wconf 76' lang='lat' dir='ltr'><strong>Taf.</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 1858 119 1890 152; x_wconf 70' lang='lat'><strong>4.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 95 339 1927 3133">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 95 339 1927 3133">
+     <span class='ocr_line' id='line_1_2' title="bbox 95 339 1927 3133; baseline 0 0"><span class='ocrx_word' id='word_1_10' title='bbox 95 339 1927 3133; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

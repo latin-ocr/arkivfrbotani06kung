@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./arkivfrbotani06kung/arkivfrbotani06kung_0175.png"; bbox 0 0 1991 3291; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 80 206 1879 257">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 80 206 1879 257">
+     <span class='ocr_line' id='line_1_1' title="bbox 80 206 1879 257; baseline -0.008 -3"><span class='ocrx_word' id='word_1_1' title='bbox 80 219 223 257; x_wconf 73' lang='lat' dir='ltr'><strong>ARKlv</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 252 212 343 256; x_wconf 74' lang='lat' dir='ltr'>FOR</span> <span class='ocrx_word' id='word_1_3' title='bbox 371 215 590 251; x_wconf 74' lang='grc' dir='ltr'>ΒΟΤΑΝΙΚ.</span> <span class='ocrx_word' id='word_1_4' title='bbox 621 214 749 248; x_wconf 78' lang='grc' dir='ltr'>ΒΑΝΙ)</span> <span class='ocrx_word' id='word_1_5' title='bbox 779 214 799 247; x_wconf 68' lang='grc'>(5</span> <span class='ocrx_word' id='word_1_6' title='bbox 827 214 893 247; x_wconf 60' lang='lat' dir='ltr'>Nm</span> <span class='ocrx_word' id='word_1_7' title='bbox 920 213 950 247; x_wconf 68' lang='grc' dir='ltr'>Γ).</span> <span class='ocrx_word' id='word_1_8' title='bbox 1716 206 1814 241; x_wconf 73' lang='grc' dir='ltr'>ΤΑΓ.</span> <span class='ocrx_word' id='word_1_9' title='bbox 1849 206 1879 240; x_wconf 77' lang='lat'>3.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 73 406 1927 3074">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 73 406 1927 3074">
+     <span class='ocr_line' id='line_1_2' title="bbox 73 406 1927 3074; baseline 0 0"><span class='ocrx_word' id='word_1_10' title='bbox 73 406 1927 3074; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 109 3047 280 3071">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 109 3047 280 3071">
+     <span class='ocr_line' id='line_1_3' title="bbox 109 3047 280 3071; baseline 0 0"><span class='ocrx_word' id='word_1_11' title='bbox 109 3047 209 3071; x_wconf 66' lang='lat' dir='ltr'>Huctor</span> <span class='ocrx_word' id='word_1_12' title='bbox 232 3047 280 3071; x_wconf 66' lang='lat' dir='ltr'>det.</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./arkivfrbotani06kung/arkivfrbotani06kung_0522.png"; bbox 0 0 1991 3291; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 256 164 985 204">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 256 164 985 204">
+     <span class='ocr_line' id='line_1_1' title="bbox 256 164 985 204; baseline -0.01 0"><span class='ocrx_word' id='word_1_1' title='bbox 256 170 365 204; x_wconf 78' lang='lat' dir='ltr'>Arkiv</span> <span class='ocrx_word' id='word_1_2' title='bbox 391 169 445 203; x_wconf 73' lang='lat' dir='ltr'>fo&#39;r</span> <span class='ocrx_word' id='word_1_3' title='bbox 470 167 633 202; x_wconf 74' lang='lat' dir='ltr'>Botanik.</span> <span class='ocrx_word' id='word_1_4' title='bbox 661 165 761 200; x_wconf 80' lang='lat' dir='ltr'>ssand</span> <span class='ocrx_word' id='word_1_5' title='bbox 789 165 810 199; x_wconf 85' lang='grc'>6</span> <span class='ocrx_word' id='word_1_6' title='bbox 836 165 903 199; x_wconf 74' lang='grc' dir='ltr'>Νῑο</span> <span class='ocrx_word' id='word_1_7' title='bbox 935 164 985 198; x_wconf 77' lang='lat'>14.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 245 283 1986 2966">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 245 283 1986 2966">
+     <span class='ocr_line' id='line_1_2' title="bbox 245 283 1986 2966; baseline 0 0"><span class='ocrx_word' id='word_1_8' title='bbox 245 283 1986 2966; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 283 2981 446 3007">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 283 2981 446 3007">
+     <span class='ocr_line' id='line_1_3' title="bbox 283 2981 446 3007; baseline 0.012 -2"><span class='ocrx_word' id='word_1_9' title='bbox 283 2981 368 3007; x_wconf 74' lang='lat' dir='ltr'><strong>Auct.</strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 390 2982 446 3007; x_wconf 67' lang='lat' dir='ltr'>dcl.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 608 3034 1872 3084">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 608 3034 1872 3084">
+     <span class='ocr_line' id='line_1_4' title="bbox 608 3034 1872 3084; baseline -0.005 -10"><span class='ocrx_word' id='word_1_11' title='bbox 608 3041 657 3074; x_wconf 72' lang='grc'>15.</span> <span class='ocrx_word' id='word_1_12' title='bbox 688 3041 729 3074; x_wconf 83' lang='grc' dir='ltr'>Η.</span> <span class='ocrx_word' id='word_1_13' title='bbox 759 3041 937 3084; x_wconf 78' lang='lat' dir='ltr'>puricolor</span> <span class='ocrx_word' id='word_1_14' title='bbox 1421 3037 1470 3071; x_wconf 83' lang='lat'>16.</span> <span class='ocrx_word' id='word_1_15' title='bbox 1501 3037 1541 3071; x_wconf 88' lang='lat' dir='ltr'>H.</span> <span class='ocrx_word' id='word_1_16' title='bbox 1571 3034 1872 3080; x_wconf 80' lang='lat' dir='ltr'>stilbocephalum</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
